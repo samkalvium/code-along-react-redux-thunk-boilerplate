@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: lightgray;
+}
+
+button{
+    width: 100px;
+    height: 30px;
+    margin-top: 1%;
+    font-size: 15px;
+    font-weight: 600;
+    background-color: blanchedalmond;
+    border: 3px solid green;
+    color: green;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: green;
+    color: blanchedalmond;
+    border: 3px solid blanchedalmond;
+}
+
+
+.data{
+    width: 580px;
+    height: auto;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 10px;
+    margin-left: 30%;
+    padding: 15px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
