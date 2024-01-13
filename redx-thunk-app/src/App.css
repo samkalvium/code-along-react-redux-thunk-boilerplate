@@ -9,6 +9,8 @@ body{
     background-color: lightgray;
 }
 
+/* STYLING BUTTON */
+
 button{
     width: 100px;
     height: 30px;
@@ -27,6 +29,7 @@ button:hover{
     border: 3px solid blanchedalmond;
 }
 
+/* STYLING THE USER-DATA */
 
 .data{
     width: 580px;
